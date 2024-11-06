@@ -3,7 +3,7 @@ Ben 10 (classic) aliens classification windows app.
 
 ## Download Source Code
 ```bash
-git clone https://github.com/playatanu/watercolor-app re-omnitrix
+git clone https://github.com/playatanu/re-omnitrix re_omnitrix
 
 cd re_omnitrix
 ```
